@@ -5,4 +5,17 @@ A python cookie manager that operates inside of a .txt file
 
 # USAGE
 
-Simply open "main.py" in the python terminal
+Simply open "main.py" in the python terminal. All the cookie data is stored in the default "Cookie.txt" file, or in additional files you create.
+
+# COMMANDS:
+Create/Edit and VIEW
+
+# Create:
+Enter a filename which doesn't already exist. Type your edits to the file when prompted.
+
+# Edit:
+Enter a filename, you will then be prompted to type your edits into the file. By default, the original data is overwritten each time a new edit is made, but this can be changed.
+
+# View
+
+When prompted, enter the filename, and the cookie data will be displayed as a string.

@@ -1,4 +1,3 @@
-# Check the IO docs before release:
 while True:
     # take input from the user
     choice = input("Enter choice: Create/edit or View ")
